@@ -1,0 +1,7 @@
+beautifulsoup4>=4.9.0
+lxml>=4.6.0
+requests>=2.25.0
+urllib3>=1.26.0
+fastapi>=0.95.0
+uvicorn[standard]>=0.22.0
+flake8>=6.0.0
